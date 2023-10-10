@@ -1,0 +1,26 @@
+  <!-- HTML Structure -->
+    <!-- Why to Learn HTML -->
+    <!-- HTML Basic Structure -->
+    <!-- What does doctypeHTMl, head, body, HTML mans -->
+    <!-- HTML tags Description  -->
+    <!-- tags with their type and why to use tags -->
+    <!-- use of h1, p , pre, br, hr -->
+    <!-- use of comment in html -->
+    <!-- Exercise using basic html -->
+    <!-- Hyper links,use of anker tages -->
+    <!-- Why to use attribute in html -->
+    <!-- use of Image tags with attribute -->
+    <!-- How to use image in html file -->
+    <!-- use of Audio tags, Video Tags,  -->
+    <!-- how to use favicon <link rel="icon" type="image/jpg" href= "Logcation" need 96 *96 px > -->
+    <!-- text format using bold,italic, underline, small, big, sup, sub, mark, del -->
+    <!-- How to use Div, span , section. Diff between block and inline element -->
+    <!-- list type OL, LI, DF  -->
+    <!-- How to use ol -->
+    <!-- How to use li -->
+    <!-- how do use dl <dL> ,dt,dd </dl> -->
+    <!-- forms with action, methord -->
+    <!-- input and label -->
+    <!-- input type :- text,password, email, tel, date, radio, submit, checkbox, image, datetime-local -->
+    <!-- Input restrication (checked, readonly, min ,max, required) -->
+    <!-- header, footer, section, sidebar -->

@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+.Hello {
+  background-color: green;
+}
+#Hello {
+  /* background-color: rgb(0, 0, 255, 0.2);
+} */
+  background-color: hsl(0, 57%, 56%);
+}
+.main {
+  background-color: #0ff0ff;
+  display: flex;
+  align-items: center;
+}
+footer {
+  background-color: green;
+}
+footer p {
+  text-align: center;
+}

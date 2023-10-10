@@ -1,0 +1,21 @@
+what is css
+why to use css
+How to apply css #internal, #external , #inline and # browser css
+#Colors
+    rgba, rgb, hexa decimal, named color, and hsl( hue, saturation, lightness)
+#fonts
+    import fonts, font-family, font-size, font-weight, font-style
+#Border
+    border-style, border-color, border-weight, border-radius
+    border-style: solid, dotted, bouble, grouver, ridge.
+    border, border-top, border-left, border-right, border-bottom
+#Margin
+    -space arround elements
+    -inspect while inspecting we will know how to use an element is using the margin, border and padding properties
+    margin
+    -margin-top, margin-left, margin-right, margin-bottom
+    for the center an element is using the margin
+    -margin-left: auto,
+    or 
+    -margin: auto 0,
+    

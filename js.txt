@@ -1,0 +1,9 @@
+<body>
+    <button onclick="dofunction()">Click Me</button>
+    <h1 id="me">Hello</h1>
+    <script>
+      function dofunction() {
+        document.getElementById("me").innerHTML = "Hello again";
+      }
+    </script>
+  </body>
